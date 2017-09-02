@@ -1,4 +1,4 @@
-TLC5615     KEYWORD1
+TLC5615	    KEYWORD1
 
-begin       KEYWORD2
-analogWrite KEYWORD2
+begin	      KEYWORD2
+analogWrite	KEYWORD2
